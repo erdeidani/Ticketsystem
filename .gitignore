@@ -60,7 +60,8 @@ bin/
 tmp/
 tmp*/
 
-
+# JSON Files
+*.json
 
 # OS-specific files
 
@@ -151,7 +152,7 @@ Temporary Items
 *.iml
 *.ipr
 
-# java
+# Java
 *.class
 
 # Package Files #
